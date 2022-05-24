@@ -1,4 +1,4 @@
-# Documentation for Monochrome Dreams Classification
+# Monochrome Dreams Classification
 
 ```
 Blahovici Andrei, group 241, University Bucharest
